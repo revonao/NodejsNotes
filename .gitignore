@@ -1,2 +1,3 @@
 /node_modules
-/app.js
+/content/subfolder
+app.js
