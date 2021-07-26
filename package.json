@@ -1,14 +1,11 @@
 {
   "dependencies": {
-    "express": "^4.17.1",
-    "lodash": "^4.17.21"
+    "express": "^4.17.1"
   },
   "name": "ecoservsys",
   "version": "1.0.0",
   "main": "1-intro.js",
-  "devDependencies": {
-    "nodemon": "^2.0.12"
-  },
+  "devDependencies": {},
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js"
